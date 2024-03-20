@@ -9,6 +9,8 @@ public class Stats {
     this.defense = defense;
   }
 
+  // Test commit 
+
   public int getAttaque() {
     return attaque;
   }
